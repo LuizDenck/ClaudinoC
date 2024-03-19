@@ -11,3 +11,8 @@ text-align: center;
 }.imagem-cabecalho{width: 200px;
 }
 
+.titulo-cabecalho
+ {display: inline-block;
+margin: 0 16px; 
+padding: 100px 0;
+font-size: 40 px;} 
