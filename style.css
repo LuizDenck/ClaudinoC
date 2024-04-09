@@ -1,35 +1,45 @@
-body{ background-color: rgba(253, 1, 1, 0.425);
-color: rgb(2, 2, 2);
-font-size: 20px;
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-justify-content: center;
-justify-items: center;
-text-align: center;
+body { background-color: rgb(4, 0, 0);
+    color: rgb(15, 15, 14);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+} .imagem-cabecalho{width: 200px;}
 
+.titulocabecalho
+{display: inline-block;
+  margin:0 16px;
+  padding: 100px 0;
+  font-size: 40px;}
 
-
-}.imagem-cabecalho{width: 200px;
+.escola-titulo{
+  font-size:50px;
 }
 
-.titulo-cabecalho
- {display: inline-block;
-margin: 0 16px; 
-padding: 100px 0;
-font-size: 40 px;} 
 
-.cabecalho{
-    background-color: rgb(255, 0, 0);
-color: black;
+  .cabecalho {background-color: rgb(255, 0, 0);
+color: rgb(3, 3, 3);
 display: flex;
-justify-content: space-around;
+justify-content: space-around; 
 padding: 20px 0;}
 
-.cabecalho-item
+.cabecalho-itens
 {display: inline-block;
 margin: 0 16px;
 padding: 24px 0;
 font-size: 24px;}
 
-.escola-imagem{
-    width: 25%;
-}
+.escola-imagem
+{width: 50%;}
+
+.escola{
+  background-image: linear-gradient(red,black);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 0;}
+
+
+
