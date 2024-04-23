@@ -49,4 +49,18 @@ font-size: 24px;}
   .escola-titulo
    {padding: 50px 30px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+
+  .aluno-um{
+
+    width: 40%;
+    height: 220px;
+  }
   
+  .estudante-titulo
+  {
+ text-align: center;
+padding: 50px 0;
+font-size: 30px;
+  }
