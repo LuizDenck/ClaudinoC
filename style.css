@@ -67,11 +67,21 @@ font-size: 30px;
 
   .estudante-div {
    text-align: center;
-
+color: rgb(246, 247, 248);
   }
     .estudante-todos {
       display: grid;
       grid-template-columns: 25% 25% 25% 25%;
     }  
-
-  
+footer{
+  background-color: rgb(0,0 ,0 );
+  color: rgb(252, 255, 255);
+}
+ .rodape{
+  text-align: center;
+  font-size: 40px;
+ } 
+ .lista-rodape
+ {display: block;
+text-align: center;
+  font-size: 20px;}
